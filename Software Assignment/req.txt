@@ -1,0 +1,4 @@
+ffmpeg
+moviepy
+playsound
+numpy
